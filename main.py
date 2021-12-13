@@ -1,1 +1,2 @@
-print("Hello world")
+for i in ["a", "b", "c"]:
+    print(i)
